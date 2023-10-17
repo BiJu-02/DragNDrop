@@ -8,5 +8,5 @@ You can touch and drag the balls to move their position
 ![WhatsApp Image 2023-10-17 at 7 48 15 PM](https://github.com/BiJu-02/DragNDrop/assets/67651024/79a3b17e-d479-4b20-b0c3-6e10a0d4d5a3)
 
 TODO:
-gravity simulation
+gravity simulation<br>
 add score
